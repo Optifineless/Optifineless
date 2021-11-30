@@ -9,3 +9,6 @@
 
 - 🎃 I am new to github and I am already loving it's interface, if you know how to make my ReadMe.md better, please contact me via email  at optifineless@gmail.com !
 - 🎪 I plan on becoming an open source coder. I have a few projects to complete, I will upload them on github! That's all about me for now. See you later on!
+
+<a href="https://github.com/Optifineless?tab=followers"><img src="https://img.shields.io/github/followers/Optifineless?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Optifineless/Optifineless/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Optifineless/Optifineless?color=lightgray&label=License&style=flat-square"></a>

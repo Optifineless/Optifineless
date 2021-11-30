@@ -1,3 +1,7 @@
+<a href="#"><img width="100%" height="auto" src="https://mocah.org/uploads/posts/346010-Anime-Boy-Riding-Bicycle-Moon-Night-City-Scenery.jpg" height="175px"/></a>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Senpai Legend</h1>
+<h3 align="center">I'm a student and a programmer.</h3>
+
 - 👋 Hi, I’m @Optifineless
 - 🥽 I am a student who's interested in coding!
 - 👀 I’m interested in learning different coding languages such as python and javascript!

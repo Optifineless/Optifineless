@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/03/space_debris/16871918-3-eng-GB/Space_Debris_pillars.jpg" height="175px"/></a>
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Optifineless!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello!, I'm Optifineless!</h1>
 <h3 align="center">I'm a student and a programmer.</h3>
 
 - 🥽 I am a student who's interested in coding!

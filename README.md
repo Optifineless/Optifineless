@@ -14,6 +14,9 @@
 ## Connect with me:
 <p align="left">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+</p>
+
+    
 ## 🤍My Views and Followers Stats:
 <a href="https://github.com/Optifineless">
     <img src="https://komarev.com/ghpvc/?username=Optifineless&?style=flat-square&logo=appveyor">

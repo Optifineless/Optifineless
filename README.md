@@ -13,7 +13,7 @@
 
 ## Connect with me:
 <p align="left">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+    <a href = "mailto:optifineless@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 </p>
 
     

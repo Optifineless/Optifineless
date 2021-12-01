@@ -11,7 +11,7 @@
 - 🎃 I am new to github and I am already loving it's interface, if you know how to make my ReadMe.md better, please contact me via email  at optifineless@gmail.com !
 - 🎪 I plan on becoming an open source coder. I have a few projects to complete, I will upload them on github! That's all about me for now. See you later on!
 
-## Connect with me:
+## 📩Connect with me:
 <p align="left">
     <a href = "mailto:optifineless@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 </p>

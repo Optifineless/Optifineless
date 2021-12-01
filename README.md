@@ -2,6 +2,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello!, I'm Optifineless!</h1>
 <h3 align="center">I'm a student and a programmer.</h3>
 
+## 🎫 About me
 - 🥽 I am a student who's interested in coding!
 - 👀 I’m interested in learning different coding languages such as python and javascript!
 - 🌱 I’m currently learning python.

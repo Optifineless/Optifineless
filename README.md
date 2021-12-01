@@ -13,8 +13,7 @@
 
 ## Connect with me:
 <p align="left">
-    <a href = "mailto:optifineless@gmail.com"><img src="<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>" alt="Logo" title="Logo" style="display:block" width="48" height="48" />
-    
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 ## 🤍My Views and Followers Stats:
 <a href="https://github.com/Optifineless">
     <img src="https://komarev.com/ghpvc/?username=Optifineless&?style=flat-square&logo=appveyor">
